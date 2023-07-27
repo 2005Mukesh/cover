@@ -143,7 +143,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![OutPut](./out.png)
+![OutPut](out3.png)
 
 ## HTML VALIDATOR:
 ![HTMLValidator](./valid.png)
